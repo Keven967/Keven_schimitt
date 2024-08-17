@@ -83,12 +83,14 @@ erDiagram
 
 # 3. Diagrama de casos de uso
 
-    ![https://github.com/Keven967/Keven_schimitt/blob/main/imagem/diagrama.png](https://github.com/Keven967/Keven_schimitt/blob/main/imagem/diagrama.png)
+![https://github.com/Keven967/Keven_schimitt/blob/main/imagem/diagrama.png](https://github.com/Keven967/Keven_schimitt/blob/main/imagem/diagrama.png)
+
 
 # 4. Principais telas do sistema
 
 # 5. Arquitetura do sistema
-```graph TD
+```mermaid
+graph TD
     A[Cliente Web] -->|Solicita| B[Servidor Web]
     B -->|Processa Solicitação| C[Aplicação PHP]
     C -->|Consulta/Atualiza Dados| D[Servidor de Banco de Dados]
