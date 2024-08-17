@@ -37,7 +37,7 @@ A partir do diagrama Entidade Relacionamento acima gere um script SQL:
 
 # 2. Diagrama de banco de dados
 
-```Mermaid
+```mermaid
 erDiagram
     CLIENTE ||--o{ ANIMAL : possui
     CLIENTE {
