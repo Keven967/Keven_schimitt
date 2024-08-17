@@ -83,7 +83,7 @@ erDiagram
 
 # 3. Diagrama de casos de uso
 
-    [https://github.com/Keven967/Keven_schimitt/commit/9cc659b44029ced0aa919b03655b76894b02cbfe](https://github.com/Keven967/Keven_schimitt/commit/9cc659b44029ced0aa919b03655b76894b02cbfe)
+    ![https://github.com/Keven967/Keven_schimitt/blob/main/imagem/diagrama.png](https://github.com/Keven967/Keven_schimitt/blob/main/imagem/diagrama.png)
 
 # 4. Principais telas do sistema
 
