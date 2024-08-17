@@ -48,12 +48,7 @@ Keven Schimitt
 
 22-Agendar hora para cães de raça.
 
-1- Desenhe um diagrama Wntidade Relacionada usando Markdow e Mermaid.
 
-A partir do diagrama Entidade Relacionamento acima gere um script SQL:
-
-1- As tabelas do sistema com o comando CREATE.
-2- 5 registros de exemplo para cada tabela com o comando INSERT.
 
 
 # 2. Diagrama de banco de dados
